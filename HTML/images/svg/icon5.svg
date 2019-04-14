@@ -1,0 +1,22 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="104.5px" height="104.5px" viewBox="0 0 width height">
+<defs>
+<linearGradient id="PSgrad_0" x1="100%" x2="0%" y1="0%" y2="0%">
+  <stop offset="0%" stop-color="rgb(234,35,110)" stop-opacity="1" />
+  <stop offset="100%" stop-color="rgb(31,171,211)" stop-opacity="1" />
+</linearGradient>
+
+</defs>
+<path fill-rule="evenodd"  fill="none"
+ d="M51.500,1.503 C79.113,1.503 101.497,23.887 101.497,51.500 C101.497,79.112 79.113,101.497 51.500,101.497 C23.887,101.497 1.503,79.112 1.503,51.500 C1.503,23.887 23.887,1.503 51.500,1.503 Z"/>
+<path stroke="rgb(0, 0, 0)" stroke-width="3px" stroke-linecap="butt" stroke-linejoin="miter" fill="url(#PSgrad_0)"
+ d="M51.500,1.503 C79.113,1.503 101.497,23.887 101.497,51.500 C101.497,79.112 79.113,101.497 51.500,101.497 C23.887,101.497 1.503,79.112 1.503,51.500 C1.503,23.887 23.887,1.503 51.500,1.503 Z"/>
+</svg>
+
+
+
+span.edit-link a:hover{
+ color:#fc5a6d;
+}
