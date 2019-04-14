@@ -112,7 +112,6 @@ a:focus{
 .pc_banner_wrapper {
     width: 100%;
     float: left;
-	background-color: rgb(234,35,110);
 }
 .pc_banner_heading{
     background: -moz-linear-gradient( -180deg, rgb(234,35,110) 0%, rgb(31,171,211) 100%);
